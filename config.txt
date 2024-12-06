@@ -1,0 +1,13 @@
+# configuration
+# addr width
+16
+# line size in pwer of two bytes
+4
+# primary memory size in pwer of two bytes
+16
+# cache size in pwer of two bytes
+10
+# associativity
+1
+# policy
+0
